@@ -1,0 +1,11 @@
+.venv
+
+# Ignore recordings
+recordings/
+test_recordings/
+
+# Ignore specific audio file used for noise
+393484__freetousesounds__authentic-street-sound-cambodia.wav
+
+# Ignore the saved model file
+acoustic_model_enhanced.keras

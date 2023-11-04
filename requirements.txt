@@ -1,0 +1,8 @@
+numpy
+librosa
+sounddevice
+wavio
+tensorflow
+scikit-learn
+matplotlib
+seaborn
