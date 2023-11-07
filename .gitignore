@@ -9,3 +9,4 @@ test_recordings/
 
 # Ignore the saved model file
 acoustic_model_enhanced.keras
+acoustic_model_enhanced_tensor.keras
